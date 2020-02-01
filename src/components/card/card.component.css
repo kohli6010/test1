@@ -1,0 +1,8 @@
+.card{
+	width: 33.33%;
+	height: 500px;
+	justify-content: center;
+	align-items: center;
+	font-size: 3em;
+	margin: 10px;
+}
